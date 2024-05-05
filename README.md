@@ -13,11 +13,11 @@ O modelo lógico desenvolvido para o exercício inclui tabelas, como Paciente, U
 Após criar o banco de dados no RDS é necessário realizar a conexão com o mesmo por meio do Endpoint e autenticação:
 
 <div align="center">
-  <img src="./imagens/db_rds.png" width="400">
+  <img src="./imagens/db_rds.png" width="700">
 </div>
 
 <div align="center">
-  <img src="./imagens/conexao.png" width="400">
+  <img src="./imagens/conexao.png" width="700">
 </div>
 
 ## Criando as tabelas
@@ -25,7 +25,7 @@ Após criar o banco de dados no RDS é necessário realizar a conexão com o mes
 Com a conexão feita é possível criar as tabelas necessárias para a elaboração do modelo físico:
 
 <div align="center">
-  <img src="./imagens/create.png" width="400">
+  <img src="./imagens/create.png" width="700">
 </div>
 
 [Acesse o código de criação aqui](codigos/create_table.sql)
@@ -35,7 +35,7 @@ Com a conexão feita é possível criar as tabelas necessárias para a elaboraç
 Após criar as respectivas tabelas, é necessário inserir os dados fictícios:
 
 <div align="center">
-  <img src="./imagens/insert.png" width="400">
+  <img src="./imagens/insert.png" width="700">
 </div>
 
 [Acesse o código de inserção aqui](codigos/insert_table.sql)
