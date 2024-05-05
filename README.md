@@ -5,7 +5,7 @@
 O modelo lógico desenvolvido para o exercício inclui tabelas, como Paciente, Unidade, Veículo, Serviço, entre outras, que armazenam informações relevantes para o funcionamento do sistema. Nele é possível entender a organização e a inter-relação dos dados no banco de dados elaborado.
 
 <div align="center">
-  <img src="./imagens/modelo_logico.drawio.png" width="280">
+  <img src="./imagens/modelo_logico.drawio.png" width="700">
 </div>
 
 ## Conexão com o RDS
